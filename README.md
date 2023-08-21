@@ -6,4 +6,4 @@ I was part of the [Advanced Software Technology Group](https://astg.pages.smce.n
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ASTG Logo](./Images/ASTG_logo_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![NCCS Logo](./Images/NCCS_logo.jpeg)
 
-For more information about EViz itself, visit the project's documentation website [here](https://astg.pages.smce.nasa.gov/visualization/eviz/index.html).
+For more information about EViz, visit ASTG's website [here](https://astg.pages.smce.nasa.gov/website/research/#easy%20visualization%20of%20earth%20system%20models) and EViz's documentation website [here](https://astg.pages.smce.nasa.gov/visualization/eviz/index.html).
